@@ -1,0 +1,19 @@
+{
+  "name": "kyoyu-code",
+  "version": "1.0.0",
+  "description": "KyoyuCode, a collaborative coding platform that encourages teamwork and knowledge sharing.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "fs": "^0.0.1-security"
+  }
+}
